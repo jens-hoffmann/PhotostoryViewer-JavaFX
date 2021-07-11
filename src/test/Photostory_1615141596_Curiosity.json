@@ -1,0 +1,30 @@
+{
+  "photoStoryUUID": "4e214a38-ad53-41c4-add3-9c7a9e075d67",
+  "storyTitle": "MarsRover Curiosity",
+  "titleImage": {
+    "imageUrl": "src/test/MarsImages/pia23378-16.jpg",
+    "title": "Rover"
+  },
+  "photos": [
+    {
+      "imageUrl": "src/test/MarsImages/pia21044_orig.jpg",
+      "title": "Image 1"
+    },
+    {
+      "imageUrl": "src/test/MarsImages/pia22066_0.jpg",
+      "title": "Image 2"
+    },
+    {
+      "imageUrl": "src/test/MarsImages/pia22207-16.jpg",
+      "title": "Image 3"
+    },
+    {
+      "imageUrl": "src/test/MarsImages/pia22213-nasa.jpg",
+      "title": "Image 4"
+    },
+    {
+      "imageUrl": "src/test/MarsImages/pia23047_0.jpg",
+      "title": "Image 5"
+    }
+  ]
+}

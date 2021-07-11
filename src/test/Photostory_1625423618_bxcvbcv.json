@@ -1,0 +1,46 @@
+{
+  "photoStoryUUID": "f4c7fb9d-289b-47d9-afec-303a4208b281",
+  "storyTitle": "bxcvbcv",
+  "titleImage": {
+    "imageUrl": "content://media/external/images/media/137",
+    "title": "dscf1096 (1).jpg"
+  },
+  "photos": [
+    {
+      "imageUrl": "content://media/external/images/media/137",
+      "title": "dscf1096 (1).jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/138",
+      "title": "dscf1106.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/139",
+      "title": "dscf1097.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/142",
+      "title": "dscf1111.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/141",
+      "title": "dscf1107.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/140",
+      "title": "dscf1102.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/143",
+      "title": "dscf1100.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/144",
+      "title": "dscf1109.jpg"
+    },
+    {
+      "imageUrl": "content://media/external/images/media/145",
+      "title": "dscf1101.jpg"
+    }
+  ]
+}
